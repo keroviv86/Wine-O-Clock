@@ -1,9 +1,9 @@
 import React from "react";
-
+import './components.css';
 function About() {
     return(
         <>
-            <h3>Newlist</h3>
+            <h3>About</h3>
         </>
     )
 }
